@@ -34,9 +34,7 @@ namespace testdrive1
             label2.Text = timpFormatat;
         }
 
-        private const string Verde = "#1e8346";
-        private const string Galben = "#ffd970";
-        private const string Rosu = "#Ff0700";
+        private const string Verde = "#1e8346", Galben = "#ffd970", Rosu = "#Ff0700";
 
         private Color HexToColor(string hex)
         {
