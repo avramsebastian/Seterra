@@ -14,7 +14,7 @@ namespace testdrive1
     public partial class Joc : Form
     {
         int timp, numarIncercari, scor = 0, gata = 0, secunde, minute;
-        string orasRandom,timpFormatat;
+        string orasRandom, timpFormatat;
         Random r = new Random();
         private List<string> listaOrase = new List<string> { "Sibiu", "Brașov", "Hunedoara", "Alba", "Covasna", "Timiș", "Arad", "Vrancea","Galați", "Bihor", "Satu Mare", "Sălaj", "Maramureș",
                                                              "Cluj", "Mureș", "Bistrița-Năsăud", "Harghita", "Suceava", "Neamț", "Bacău", "Botoșani", "Iași", "Vaslui", "Caraș-Severin", "Tulcea", "Constanța", 
