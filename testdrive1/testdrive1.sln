@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atestat", "testdrive1\Atestat.csproj", "{92D251F9-0A19-4885-8F6A-95C07F9937DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92D251F9-0A19-4885-8F6A-95C07F9937DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92D251F9-0A19-4885-8F6A-95C07F9937DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92D251F9-0A19-4885-8F6A-95C07F9937DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92D251F9-0A19-4885-8F6A-95C07F9937DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E8E5258-ED8C-488C-9231-3C35F3B02033}
+	EndGlobalSection
+EndGlobal

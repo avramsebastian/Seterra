@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\testdrive1\testdrive1\bin\Debug\testdrive1.exe.config
+C:\Users\User\Desktop\testdrive1\testdrive1\bin\Debug\testdrive1.exe
+C:\Users\User\Desktop\testdrive1\testdrive1\bin\Debug\testdrive1.pdb
+C:\Users\User\Desktop\testdrive1\testdrive1\obj\Debug\testdrive1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\testdrive1\testdrive1\obj\Debug\testdrive1.Properties.Resources.resources
+C:\Users\User\Desktop\testdrive1\testdrive1\obj\Debug\testdrive1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\testdrive1\testdrive1\obj\Debug\testdrive1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\testdrive1\testdrive1\obj\Debug\testdrive1.exe
+C:\Users\User\Desktop\testdrive1\testdrive1\obj\Debug\testdrive1.pdb
+C:\Users\User\Desktop\testdrive1\testdrive1\obj\Debug\testdrive1.Meniu1.resources
+C:\Users\User\Desktop\testdrive1\testdrive1\obj\Debug\testdrive1.Joc.resources
+C:\Users\User\Desktop\testdrive1\testdrive1\obj\Debug\testdrive1.Difi.resources
