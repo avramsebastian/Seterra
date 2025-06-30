@@ -29,17 +29,19 @@ To edit the code, you will need:
 The start screen contains the main menu with the following options:
 * **Joacă (Play):** Starts a new game.
 * **Învață (Learn):** Accesses the learning menu where you can learn or review cities before playing.
-* **Ieși (Exit):** Closes the program. 
+* **Ieși (Exit):** Closes the program.
+<img src="images/mp.jpg" alt="Main Menu" width="500" height="400">
 
 ### Game Play:
 
 1.  **Difficulty Selection:** Accessing the "Joacă" button will direct the user to the difficulty selection menu. 
     * **Ușor (Easy):** 2 minutes to complete the map. 
     * **Mediu (Medium):** 4 minutes to complete the map. 
-    * **Dificil (Difficult):** 6 minutes to complete the map. 
+    * **Dificil (Difficult):** 6 minutes to complete the map.
+   <img src="images/md.jpg" alt="Dificulty Menu" width="500" height="400">
 
 2.  **Starting the Game:** After selecting the difficulty, the user is directed to the game menu. Initially, the map, a "Start" button, and a timer showing the remaining time are visible. Pressing the "Start" button begins the game.
-
+<img src="images/joc.jpg" alt="Main Game" width="600" height="400">
 3.  **Gameplay Mechanics:**
     * Buttons for each city will appear, to be completed by right-clicking.
     * A random city to be identified by the user will be generated below the timer.
@@ -60,6 +62,7 @@ The start screen contains the main menu with the following options:
 * Players can practice identifying cities. Clicking on a city will make its name visible for 3 seconds.
 * Alternatively, selecting the checkbox "Afișează toate" (Show all) will display all city names.
 * Once ready, the player can press the "Sunt pregătit" (I'm ready) button to return to the main menu.
+<img src="images/inv.jpg" alt="Learning Menu" width="600" height="400">
 
 ## Future Development
 The following enhancements are planned for future versions: 
